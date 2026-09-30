@@ -7,7 +7,7 @@ Before this project, Northstar Medical Group was struggling with severe administ
 To clean up this mess, I set up a local domain (NMG.com) from scratch on a Windows Server VM using VirtualBox. I organized the environment by creating distinct Organizational Units (OUs) for Finance, HR, IT, and Operations so every department had its own clear space. I then set up Role Based Access Control (RBAC) with security groups and created 15 user accounts with clean, consistent naming rules. Now, when a new user is added to a department group, they automatically get the exact permissions they need which makes user management way easier and keeping access HIPAA compliant.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/066e2ce08fe74ef89595b11a0f8cb5c2
 
 ## Tools Used
 * Windows Server
